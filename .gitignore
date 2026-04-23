@@ -1,0 +1,20 @@
+# Archivos de checkpoints de Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+
+# Archivos de configuración de VS Code
+.vscode/
+
+# Archivos de datos grandes o privados
+# data/mi_dataset_privado.csv
+notebook_backup.ipynb
