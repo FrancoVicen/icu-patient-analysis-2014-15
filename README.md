@@ -4,12 +4,14 @@
 
 ## Estructura del Proyecto
 
+```text
 ├── icu-patient-analysis-2014-15/data/
 │ ├── raw/ # Almacena los dataset en crudo, sin procesar.
 │ ├── interim/ # Almacena dataset procesados de pasos intermedios.
 │ └── processed/ # Almacena dataset procesados finales para entregar a otra aplicación.
 ├── README.md
 └── Patient_Analysis.ipynb
+```
 
 ## Equipo de trabajo
 
